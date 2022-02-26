@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. The care of the Kings of this realme our progenitors, for the restraint of exportation of gold and siluer into forraine parts</title>
+            <title>Proclamations. 1611-11-23</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1611</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73969</idno>
+            <idno type="STC">STC 8475</idno>
+            <idno type="STC">ESTC S123807</idno>
+            <idno type="EEBO-CITATION">99899009</idno>
+            <idno type="PROQUEST">99899009</idno>
+            <idno type="VID">150847</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73969)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150847)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1984:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. The care of the Kings of this realme our progenitors, for the restraint of exportation of gold and siluer into forraine parts</title>
+                  <title>Proclamations. 1611-11-23</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>3 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Barker, printer to the Kings most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>anno Dom. 1611.]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Dated at end: Giuen at Newmarket the three and twentieth day of Nouember, in the ninth yeere of our reigne ... .</note>
+                  <note>Arms 11; Steele notation: Progeni-  which  2) to  3) in by.</note>
+                  <note>Reproduction of original in the British Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gold --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Money supply --  England --  Early works to 1800.</term>
+               <term>Silver --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:150847:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>English royal blazon, surmounted by a crown and flanked by the Tudor rose and Scottish thistle</figDesc>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE care of the Kings of this Realme Our Progeni<g ref="char:EOLhyphen"/>tors,</hi> for the reſtraint of exportation of Gold and Siluer into forraine parts, appeareth vnto Vs in ſundry Lawes, contayning both ſeuere penalties, and ſtrict prouiſions and cautions to preuent and puniſh that offence; in ſo much as the ſame for diuers yeeres, (and thoſe not long paſt) was made in degree of Felony, and that very iuſtly, beeing an offence to the Publique, which deſerueth more then the defrauding of a priuate man: And yet ſuch is the preſumption of the time, as, although many of thoſe Lawes are ſtill in force, it is viſible and no<g ref="char:EOLhyphen"/>torious, that great quantities of Our Coines of Gold do paſſe ordinarily in paiments, in forraine Na<g ref="char:EOLhyphen"/>tions, nay, (which is a thing very vnnaturall) that Our Gold at this time is more ſtirring abroad in parts beyond the ſeas, then here at home in Our owne Iſland, to the diſgrace of Our Gouernment, and notorious inconuenience of Our Subiect. For remedy whereof, and as a part of Our Royall Office, We called before vs and Our priuy Councell, (deſides diuers Gentlemen of quality and diſcre<g ref="char:EOLhyphen"/>tion) ſundry Merchants of euery Trade, Officers of Our Mint, and Goldſmiths of the beſt ſort, that Wee might the better ground Our reſolutions vpon ſuch informations and diſcoueries, as ei<g ref="char:EOLhyphen"/>ther Art, Experience, or the knowledge of the affaires abroad, could affoard; And ioyning the con<g ref="char:EOLhyphen"/>ſideration of former euents, with the preſent opinion and aduice which Wee haue taken, Wee made this concluſion, That it is in vaine to ſtriue with this diſeaſe, except the cauſe be remooued, which is confeſſed by all to be the great gaine which the Merchant (eſpecially the Stranger) maketh, by the exportation of Our Gold, which gaine likewiſe is a conſequent of the diſproportion between the price of Our Coines of Gold abroade, and here within Our owne Kingdomes: For the caſe ſtanding ſo, as that our Vnite which is currant here but for twenty ſhillings, is valued in forraine parts at two and twenty ſhillings, which is a full tenth part more, and other Our Coines of Gold ratably; The gaine is ſo extreame, and ſo ſwift in the returne, that the ſweetneſſe thereof, ioyned with the hope of con<g ref="char:EOLhyphen"/>cealements, in regard of the infinite ſhifts to auoide the ſearch, maketh the effects fruſtrate of all Lawes and Policies that haue beene vſed, or can be vſed againſt the exportation, as long as that vio<g ref="char:EOLhyphen"/>lent Adamant of Lucre draweth mens deſires to offend: And therfore finding no other remedie com<g ref="char:EOLhyphen"/>petent or effectuall, We reſolued (preſeruing ſtill the waight and fineneſſe of Our Standart,) to raiſe the price of Our Gold to be of equall value with that it beareth in forraine parts: And yet that it may not be conceiued, that We would make the remedy larger then the inconuenience, We would be
+<pb facs="tcp:150847:2"/>thus clearely vnderſtood, that We haue abſolutely concluded with good aduice and deliberation, not to make any manner of alteration in the price, or otherwiſe, of Our Siluer, with which all Trades and payments are ſo much driuen and made, as the raiſing the price thereof would giue both colour and cauſe to rayſe prices of all commodities and things vendible, which We ſeeke by all meanes to auoide. And becauſe it may appeare to the world, that in this Our proceeding, Our eye is ſingle, and not bent vpon any benefite to Our ſelues, although We mought haue taken a reaſonable occaſion, in reſ<g ref="char:EOLhyphen"/>pect of the diuerſitie of the pieces of Gold which are currant within Our Realme, and their ſeuerall fineſſes to haue ſet this increaſe of price vpon ſuch Coines onely, as ſhould haue beene newly ſtamped, whereby much profite might haue growne to Vs by the coynage; yet to auoide all commixture of Our owne benefite, with matter of reformation for the publike good, Wee haue giuen the price as well to Gold heretofore coyned, as hereafter, ſo as if any profite by accident ſhould fall out, it will bee rather Our Subiects, then Ours:</p>
+            <p>We doe therefore hereby publiſh, declare and authoriſe, all the ſeuerall pieces of Gold hereafter men<g ref="char:EOLhyphen"/>tioned, to be currant within this Our Realme, reſpectiuely hereafter at the values following.
+<table>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>The piece of Gold called the Vnite, At xxij. s.</item>
+                           <item>The piece of Gold called the double Crowne, At xj. s.</item>
+                           <item>The piece of Gold called the Britaine Crowne, At v. s. vj. d.</item>
+                           <item>The piece of Gold called the Thiſtle Crowne, At 4. s. 4. d. ob. q.</item>
+                           <item>The piece of Gold called the halfe Crowne, At ij. s. ix. d.</item>
+                           <item>The coyne of Gold of Scotland, called the vj.<hi rend="sup">li.</hi> piece, At xj. s.</item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <head>Not currant in Scotland.</head>
+                           <item>The piece of Gold of our owne coyne, called the Roſe Royall xxxiii. s.</item>
+                           <item>The piece of Gold of our owne coyne, called the Spurre-Royall xvj. s. vi. d.</item>
+                           <item>The piece of Gold of our coine called the Angel xj. s.</item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>All other pieces of Gold, of the Coyne of any former Kings of this Realme, Our Progenitors, and at this time currant, to beare the like encreaſe of price in proportion with Our owne Coynes aboue ſpecified, That is to ſay;
+<table>
+                  <row>
+                     <cell>
+                        <list>
+                           <item>
+                              <table>
+                                 <row>
+                                    <cell rows="3">Euery piece of Gold formerly currant</cell>
+                                    <cell>For xxx. s.</cell>
+                                    <cell>xxxiij. s.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>For xx. s.</cell>
+                                    <cell>xxij. s.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>For xv. s.</cell>
+                                    <cell>xvj. s. vj. d.</cell>
+                                 </row>
+                              </table>
+                           </item>
+                        </list>
+                     </cell>
+                     <cell>
+                        <list>
+                           <item>
+                              <table>
+                                 <row>
+                                    <cell rows="3">Euery piece of Gold formerly currant</cell>
+                                    <cell>For x. s.</cell>
+                                    <cell>xj. s.</cell>
+                                 </row>
+                                 <row>
+                                    <cell> For v. s.</cell>
+                                    <cell>v. s. vj. d.</cell>
+                                 </row>
+                                 <row>
+                                    <cell>For ij. s. vj. d.</cell>
+                                    <cell>ij. s. ix. d.</cell>
+                                 </row>
+                              </table>
+                           </item>
+                        </list>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And foraſmuch as the greater price is ſet vpon our Coines of Gold, which is like alſo to be a meanes to draw foorth Gold to be more vſuall in payments then of late it hath bene, the more conuenient it is, that no pieces of Gold which are become light by any clipping or waſhing, or the like practiſes, bee put vpon Our louing Subiects, in any payments to their preiudice, if the defect be not within that ſmall abatement, which muſt be by reaſon of the incertainety of the ſhearers at the Mynt; Wee haue thought good according to the Preſident of a Proclamation made in the nine and twentieth yeere of the Reigne of Our late deare Siſter Queene <hi>Elizabeth,</hi> which continued in force till her deceaſe, to declare, and by theſe preſents We doe declare, that it ſhall be free and Lawfull for all and euery Our louing Subiects, to refuſe in any paiments all pieces of Gold, which ſhall be lighter then according to the remedies, or a<g ref="char:EOLhyphen"/>batements hereafter following.</p>
+            <p>The Abatements or Remedies, which the ſeuerall pieces of Gold may not exceede.
+<list>
+                  <item>
+                     <hi>In euery piece of Golde currant for <hi>xxx. s.</hi> The Remedy and abatement ſhall not exceed <hi>iiij. gr. di.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>In euery piece of Golde currant for <hi>xx. s.</hi> The Remedy and abatement ſhall not exceed <hi>iij. gr.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>In euery piece of Golde currant for <hi>xv. s.</hi> The Remedy and abatement ſhall not exceed <hi>ij. gr. di.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>In euery piece of Golde currant for <hi>x. s.</hi> The Remedy and abatement ſhall not exceed <hi>ij. gr.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>In euery piece of Golde currant for <hi>v. s.</hi> The Remedy and abatement ſhall not exceed <hi>j. gr.</hi>
+                     </hi>
+                  </item>
+                  <item>
+                     <hi>In euery piece of Golde currant for <hi>ij. s. vj. d.</hi> The Remedy and abatement ſhall not exceed <hi>di. gr.</hi>
+                     </hi>
+                  </item>
+               </list>
+            </p>
+            <p>Furthermore we doe not ſo reſt vpon this courſe of pollicy, for the ſtay of the exportation of Gold out of Our Kingdomes, as We do in any ſort lay aſide thoſe Legall remedies, which by Our Lawes and Statutes in force haue bene prouided for the repreſſing of the ſaid offence, in exporting both Gold and Siluer: But contrariwiſe, Our will and pleaſure is, and We doe make knowen the ſame to all Our louing Subiects, and ſtraitly command all Our Officers and Miniſters, to whom it may ap<g ref="char:EOLhyphen"/>pertaine,
+<pb facs="tcp:150847:3"/>that the Statutes and branches of Statutes, hereafter particularly expreſſed, be duely put in execution; that is to ſay, the Statutes made at Yorke, in the ninth yeere of King <hi>Edward</hi> the third, called the Statute of Money, firſt, ſixt, ninth, &amp; tenth Chapters, wherby is prouided that from thence<g ref="char:EOLhyphen"/>foorth none ſhould carry away any ſterling out of the Realme of England, nor Siluer in Plate, nor veſſell of Gold or Siluer, vpon paine of forfeiture of the ſame Money, Plate, or veſſell. And that the Mayor and Bayliffes in euery Port, where Merchants and ſhips ſhould be, ſhould take an Oath of the Maſters and Merchants of Ships, going, and comming againe, that they ſhould doe no fraud a<g ref="char:EOLhyphen"/>gainſt the prouiſion of that Law in any point. And that good and ſtrait ſearch ſhould be made in all places vpon the Sea coaſts, in Hauens and elſewhere, where any arriuall ſhould be, by good and lawfull men thereto ſworne, that in the Kings name they ſhould make diligent ſearch, that no man of what eſtate or condition ſoeuer, ſhould carry out of this Realme, Sterling Money, Siluer or Plate, nor Veſſell of Gold or Siluer without the Kings Licence. And that the ſearcher ſhall haue the fourth part for their labour of as much as they ſhall finde ſo forfeited, and to looſe all his goods if he diſpenſe with any man, and be thereof attaint; As by the ſame Statute among other things more ful<g ref="char:EOLhyphen"/>ly doth appeare.</p>
+            <p>And one other Statute made in the ſecond yeere of <hi>Henry</hi> the fourth, the fift Chapter, whereby the King did ordaine and eſtabliſh, that from thenceforth that any ſearcher of the King might find Gold or Siluer in Coyne or in Maſſe, in the keeping of any that ſhould be paſſing, or vpon his paſſage, in a<g ref="char:EOLhyphen"/>ny Ship or Veſſel, for to goe out of any Port, Hauen, or Creeke of the Realme, without the Kings ſpe<g ref="char:EOLhyphen"/>ciall Lycence, that Gold or Siluer ſhould be forfeited to the King, (ſauing his reaſonable expences) As by the ſame Statute it doth and may more at large appeare.</p>
+            <p>And We doe ſpecially charge and command, that the Mayor and Bayliffes in euery Port, where Merchants and Ships ſhall be, and all ſuch to whom the ſame ſhall or may in any wiſe appertaine, doe from hencefoorth carefully take the Oath of Maſters of Ships, and Merchants, according to the true meaning of the ſaid Statute, made in the ſaid ninth yeere of King <hi>Edward</hi> the third: And that all Cuſtomers, Searchers, Comptrollers, and all other Our Officers and Miniſters whatſoeuer, to whom it appertaineth, doe ſo carefully and diligently execute their ſeuerall Offices, as the ſaid Sta<g ref="char:EOLhyphen"/>tutes and all others in any ſort concerning the Premiſſes, may without any default or negligence in them, or any of them, be duely and effectually executed vpon paine of the greateſt puniſhment, that by Our Lawes may be inflicted vpon them for their default, negligence, and contempt in that behalfe.</p>
+            <closer>
+               <dateline>Giuen at Newmarket <date>the three and twentieth day of Nouember, in the ninth yeere of Our Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by Robert Barker, Printer to the Kings moſt Excellent Maieſtie. <hi>Anno Dom.</hi> 1611.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
